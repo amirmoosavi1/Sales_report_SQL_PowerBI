@@ -1,2 +1,2 @@
 # Sales_report_SQL_PowerBI
-Excel to SQL to Power BI: Create interactive sales dashboards and reports for data-driven insights.
+This repository contains a data analysis project that transforms Excel data into a structured SQL database, enabling the creation of interactive sales dashboards and reports using Power BI. Explore user details, order history, product insights, sales trends, and profit analytics to gain valuable business insights. This project showcases the process of data extraction, transformation, and visualization, providing a powerful tool for data-driven decision-making.
